@@ -9,6 +9,7 @@ import { FiLogOut } from 'react-icons/fi'; // Make sure to install react-icons i
 const navigation = [
   { name: 'BUDDIES', href: '/home', current: false },
   { name: 'GROUPS', href: '/group', current: false },
+  { name: 'CHAT', href: '/chat', current: false },
   { name: 'MY ACCOUNT', href: '/userProfile', current: true },
 ];
 
